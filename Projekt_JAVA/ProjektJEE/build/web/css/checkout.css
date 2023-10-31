@@ -1,0 +1,18 @@
+.jumbotron-flat {
+   height: 100%;
+   width: 100%;
+   text-align: center;
+   overflow: auto;
+}
+
+.paymentAmt {
+   font-size: 80px; 
+}
+
+.centered {
+   text-align: center;
+}
+
+.title {
+   padding-top: 1px;   
+}

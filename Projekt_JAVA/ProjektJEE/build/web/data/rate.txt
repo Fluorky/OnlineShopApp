@@ -1,0 +1,6 @@
+<option value = "0"> Dowolny </option>
+<option value = "1"> 1 gwiazdka </option>
+<option value = "2"> 2 gwiazdki </option>
+<option value = "3"> 3 gwiazdki </option>
+<option value = "4"> 4 gwiazdki </option>
+<option value = "5"> 5 gwiazdek </option>

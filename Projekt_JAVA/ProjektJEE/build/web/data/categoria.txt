@@ -1,0 +1,49 @@
+<option>Wszystkie kategorie</option>
+                    
+                    <option>-MOTORYZACJA-</option>
+                    
+                        <option>Samochody</option>
+                        <option>Akcesoria samochodowe</option>
+                        <option>Motocykle i skutery</option>
+                        <option>Akcesoria motocyklowe</option>
+                        <option>Lodzie</option>
+                        <option>Przyczepy kempingowe i kampery</option>
+                        <option>Samochody specjalne</option>
+                        
+                    <option>-PRACA I USLUGI-</option>
+                    
+                        <option>Oferty pracy</option>
+                        <option>Uslugi</option>
+                        <option>Kandydaci poszukujacy pracy</option>
+                        <option>Sprzet do pracy</option>
+                        
+                    <option>- ELEKTRONIKA -</option>
+                    
+                        <option>IT</option>
+                        <option>Gry na konsole</option>
+                        <option>Audio/Video</option>
+                        <option>Fotografia</option>
+                        <option>Smartphony</option>
+                        
+                    <option>-DLA DOMU I CIEBIE-</option>
+                    
+                        <option>Meble i AGD</option>
+                        <option>Urzadzenia domowe</option>
+                        <option>Ogrod i majsterkowanie/option>
+                        <option>Ubrania i akcesoria</option>
+                        <option>Wszystko dla dzieci</option>
+                        
+                    <option>- SPORT I HOBBY -</option>
+                    
+                        <option>Zwierzeta</option>
+                        <option>Muzyka i film</option>
+                        <option>Ksiazki i czasopisma</option>
+                        <option>Instrumenty muzyczne</option>
+                        <option>Sport</option>
+                        <option>Rowery</option>
+                        <option>Przedmioty kolekcjonerskie</option>
+                        
+                    
+                        <option disabled= disabled >--</option>
+                    
+                        <option>Pozostale</option>

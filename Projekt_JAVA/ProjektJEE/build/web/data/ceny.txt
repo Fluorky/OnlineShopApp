@@ -1,0 +1,8 @@
+<option value = "0"> Wszystkie ceny </option>
+<option value = "100"> Mniej niz 100 </option>
+<option value = "200"> Mniej niz 200 </option>
+<option value = "300"> Mniej niz 300 </option>
+<option value = "400"> Mniej niz 400 </option>
+<option value = "500"> Mniej niz 500 </option>
+<option value = "1000"> Mniej niz 1000 </option>
+<option value = "2000"> Mniej niz 2000 </option>
